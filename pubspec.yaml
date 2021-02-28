@@ -1,0 +1,73 @@
+name: leaps
+description: Product to help teachers create and get resources based on recreation center in Ondo state.
+
+version: 1.0.0+10
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  flutter_svg: ^0.13.0+2
+  flutter_icons: ^0.1.4
+  font_awesome_flutter: ^8.4.0
+  flutter_spinkit: ^3.1.0
+
+  chewie: ^0.9.7
+  video_player: ^0.10.1+4
+  youtube_player: ^3.5.0
+  flutter_plugin_pdf_viewer: ^1.0.7
+
+  provider: ^3.0.0
+  connectivity: ^0.4.3+4
+  equatable: ^0.6.1
+
+  intl: ^0.15.8
+  cached_network_image: ^2.0.0-rc
+  #image_picker: 0.4.12+1
+  image_picker: ^0.6.2+3
+
+  shared_preferences: ^0.5.1+2
+  flutter_staggered_grid_view: ^0.3.0
+  url_launcher: ^5.1.6
+
+  #firebase_core:
+  firebase_core: ^0.4.3+1
+  #firebase_auth:
+  firebase_auth: ^0.15.3
+  #cloud_firestore:
+  cloud_firestore: ^0.13.0+1
+  #firebase_storage:
+  firebase_storage: ^3.1.1
+
+  #firebase_core: ^0.2.5
+  #firebase_auth: ^0.6.6
+  #cloud_firestore: ^0.7.4
+  #firebase_storage: 1.0.4
+
+  bubble_tab_indicator: ^0.1.4
+
+  http: ^0.12.0+2
+  rxdart: ^0.21.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  device_preview: ^0.2.6
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/svgs/
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat/Montserrat-Bold.ttf
+        - asset: assets/fonts/Montserrat/Montserrat-Medium.ttf
+        - asset: assets/fonts/Montserrat/Montserrat-Regular.ttf
+          style: normal

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120534031354",
+    "firebase_url": "https://leaps-uk.firebaseio.com",
+    "project_id": "leaps-uk",
+    "storage_bucket": "leaps-uk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120534031354:android:879124203797f4ca",
+        "android_client_info": {
+          "package_name": "io.benhaxe.leaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120534031354-rm4sjvegh0mg5oniffotblgasophq39u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvTgJcxzlUnf6iCwlLLs2QyHiWRqjv0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120534031354-rm4sjvegh0mg5oniffotblgasophq39u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

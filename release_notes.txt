@@ -1,0 +1,12 @@
+What is new in this version
+
+- Content fetched are now country based
+- Fixed issues with creating a lesson plan.
+- Fixed crashes on search screen when network is unavailable
+- Fixed text overlay on awaiting verification screen for teachers
+
+- New and improved user experience sign up flow for both teachers and student
+- New and improved explore screen for both teachers and students
+- Fixed updating profile picture
+- Redesigned screen & card for lesson plans, lesson notes and search result
+- Improved responsiveness
